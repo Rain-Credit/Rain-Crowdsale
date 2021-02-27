@@ -1,5 +1,6 @@
 secrets.json
 build/
+test/
 cache/
 artifacts/
 node_modules/
